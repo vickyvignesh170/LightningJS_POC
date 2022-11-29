@@ -16,11 +16,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import { Lightning, Router, Colors } from '@lightningjs/sdk';
-import { Menu } from './Widgets/Menu';
-import routes from './router'; 
-import { FilterBy } from './Widgets/filterBy';
-import { Dialog } from './Widgets/dialog';
+import { Lightning, Router, Colors } from '@lightningjs/sdk'
+import { Menu } from './Widgets/Menu'
+import routes from './router'
+import { FilterBy } from './Widgets/filterBy'
+import { Dialog } from './Widgets/dialog'
 
 interface AppTemplateSpec extends Lightning.Component.TemplateSpec {
   Background: {
@@ -51,7 +51,7 @@ export class App
       Content: {
         ...super._template(),
       },
-      
+
       Widgets: {
         Menu: {
           rect: true,
@@ -64,7 +64,7 @@ export class App
           visible: false,
         },
         FilterBy: {
-          x: window.innerWidth - 300,
+          x: 1620,
           y: 50,
           rect: true,
           w: 200,
@@ -72,44 +72,44 @@ export class App
           color: Colors('white').alpha(0.7).get(),
           zIndex: 1000,
           type: FilterBy,
-          visible: false
+          visible: false,
         },
         Dialog: {
           type: Dialog,
-          visible: false
-        }
-      }
+          visible: false,
+        },
+      },
     }
   }
 
   override _setup() {
-    Router.startRouter(routes, this);
+    Router.startRouter(routes, this)
   }
 
   get dialog() {
-    return this.tag('Dialog');
+    return this.tag('Dialog')
   }
 
-  override _handleAppClose(){
-    this.dialog.visible = true;
+  override _handleAppClose() {
+    this.dialog.visible = true
     this.dialog.open({
-      heading: 'Closing App!!', 
+      heading: 'Closing App!!',
       message: 'Are you sure you want to close this APP?',
       actions: [
         {
           label: 'Cancel',
           action: () => {
-            this.dialog.visible = false;
-            this.dialog.close();
-          }
+            this.dialog.visible = false
+            this.dialog.close()
+          },
         },
         {
           label: 'Yes',
           action: () => {
-            this.application.closeApp();
-          }
-        }
-      ]
-    });
+            this.application.closeApp()
+          },
+        },
+      ],
+    })
   }
 }
