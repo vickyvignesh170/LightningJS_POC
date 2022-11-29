@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Shawshank Redemption",
+      "imgsrc": "images/TSHR.jpg",
+      "laguage": "english",
+      "description": "The answer to the question is Shawshank Redemption a true story? is, unfortunately, a no. The Shawshank Redemption is not based on a true story but was adapted from the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption."
+    },
+    {
+      "id": 2,
+      "name": "Saving Private Ryan",
+      "imgsrc": "images/saving.jpg",
+      "laguage": "english",
+      "description": "While the characters are fictitious, many of its events are inspired by actual historical records. Screenwriter Robert Rodat was first inspired to craft the narrative upon reading Stephen Ambrose's nonfiction retrospective D-Day: June 6, 1944: The Climactic Battle of World War I"
+    },
+    {
+      "id": 3,
+      "name": "Black Adams",
+      "imgsrc": "images/blackAdam.jpg",
+      "laguage": "english",
+      "description": "Black Adam is a 2022 American superhero film starring Dwayne Johnson as the titular DC Comics character. The film is related to Shazam! (2019) and the eleventh film in the DC Extended Universe (DCEU). It is directed by Jaume Collet-Serra, written by Adam Sztykiel, Rory Haines, and Sohrab Noshirvani, and produced by Johnson. In addition to Johnson, the film stars Aldis Hodge, Noah Centineo, Sarah Shahi, Marwan Kenzari, Quintessa Swindell and Pierce Brosnan. It is produced by New Line Cinema, DC Films, Seven Bucks Productions and FlynnPictureCo., and distributed by Warner Bros. Pictures. The story centers around Adam, an ancient superhuman who is released from his magic imprisonment by a group of archeologists to free the nation of Kahndaq from the crime syndicate Intergang."
+    },
+    {
+      "id": 4,
+      "name": "The Avengers",
+      "imgsrc": "images/avengers.jpg",
+      "laguage": "english",
+      "description": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, and Josh Brolin. In the film, the surviving members of the Avengers and their allies attempt to reverse the destruction caused by Thanos in Infinity War."
+    },
+    {
+      "id": 5,
+      "name": "kaathu vakula rendu kadhal",
+      "imgsrc": "images/kvk.jpg",
+      "laguage": "tamil",
+      "description": "Kaathuvaakula Rendu Kaadhal (transl. Two loves in a breeze) is an 2022 Indian Tamil-language romantic black comedy film written and directed by Vignesh Shivan. It stars Vijay Sethupathi, Nayanthara and Samantha. The soundtrack album and film score were composed by Anirudh. In the film, The life of Rambo, an unlucky man, changes when he finds love. However, the only problem is, instead of one, he falls in love with two women."
+    },
+    {
+      "id": 6,
+      "name": "Sardar",
+      "imgsrc": "images/sardar.jpg",
+      "laguage": "tamil",
+      "description": "Sardar is an 2022 Indian Tamil-language spy action film written and directed by P. S. Mithran and produced by S. Lakshman Kumar under the banner of Prince Pictures.[4] The film stars Karthi in a dual role with Raashii Khanna, Rajisha Vijayan, Chunky Panday, Laila, Rithvik, Munishkanth, Yugi Sethu, Avinash and Balaji Sakthivel in prominent roles.[5][6] The film music composed by G. V. Prakash Kumar, with cinematography done by George C. Williams and film edited by Ruben. It marks Hindi film actor Chunky Panday's debut in Tamil cinema, and Laila's comeback to films after 16 years"
+    },
+    {
+      "id": 7,
+      "name": "Gangu Bai",
+      "imgsrc": "images/gangubai.png",
+      "laguage": "hindi",
+      "description": "Gangubai Kathiawadi is a 2022 Indian Hindi-language biographical crime drama film directed by Sanjay Leela Bhansali and produced by Bhansali and Jayantilal Gada. The film stars Alia Bhatt as the titular character with Ajay Devgn, Shantanu Maheshwari, Vijay Raaz, Indira Tiwari, Seema Pahwa and Varun Kapoor in pivotal roles.The film is loosely based on the true story of Ganga Jagjivandas Kathiawadi, popularly known as Gangubai Kothewali, whose life was documented in the book Mafia Queens of Mumbai written by S. Hussain Zaidi. The film depicts the rise of a simple girl from Kathiawad who had no choice but to embrace the ways of destiny and swing it in her favour.[5][6][7] Gangubai Kathiawadi premiered at the 72nd Berlin International Film Festival on 16 February 2022, and was released in theatres on 25 February 2022."
+    },
+    {
+      "id": 8,
+      "name": "Lal singh chadda",
+      "imgsrc": "images/LSC.jpg",
+      "laguage": "hindi",
+      "description": "Laal Singh Chaddha is a 2022 Indian Hindi-language comedy-drama film directed by Advait Chandan from a screenplay by Eric Roth and Atul Kulkarni. Produced by Aamir Khan Productions and Viacom18 Studios, it is a remake of the 1994 American film Forrest Gump which itself is an adaptation of the novel of the same name by Winston Groom.[4] The film stars Aamir Khan as the title character alongside Kareena Kapoor, Naga Chaitanya (in his Hindi film debut) and Mona Singh.[5]"
+    },
+    {
+      "id": 9,
+      "name": "Jawan",
+      "imgsrc": "images/jawan.jpg",
+      "laguage": "hindi",
+      "description": "Jawan[2] is an upcoming 2023 Indian Hindi language action thriller film written and directed by Atlee. It stars Shah Rukh Khan in a dual role along with Nayanthara, Vijay Sethupathi and Sanya Malhotra. The film's music is composed by Anirudh Ravichander.Principal photography commenced in September 2021 with filming taking place in Pune, Mumbai, Hyderabad and Chennai. It is scheduled for theatrical release on 2 June 2023."
+    },
+    {
+      "id": 10,
+      "name": "kanthara",
+      "imgsrc": "images/kan.jpg",
+      "laguage": "kannada",
+      "description": "Kantara (transl. Mystical Forest) is a 2022 Indian Kannada-language action drama film[3] written and directed by Rishab Shetty, and produced by Vijay Kiragandur,[4] under Hombale Films. The film stars Shetty as a Kambala champion who is at loggerheads with an upright DRFO officer, Murali (played by Kishore). Set and filmed in Keradi in coastal Karnataka, principal photography began in August 2021.[5] The cinematography was handled by Arvind S. Kashyap, with B. Ajaneesh Loknath scoring music for the film and the action sequences were choreographed by the action director Vikram More. The production design was handled by debutant, Dharani Gange Putra."
+    },
+    {
+      "id": 11,
+      "name": "RRR",
+      "imgsrc": "images/RRR.jpg",
+      "laguage": "telugu",
+      "description": "RRR[a] is a 2022 Indian Telugu-language epic action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It centers around two real-life Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship and their fight against the British Raj. Set in the 1920s, the plot explores the undocumented period in their lives when both the revolutionaries chose to go into obscurity before they began the fight for their country."
+    },
+    {
+      "id": 12,
+      "name": "Poniyan selvan",
+      "imgsrc": "images/ps1.jpg",
+      "laguage": "tamil",
+      "description": "Ponniyin Selvan: I (transl. The Son of Ponni) is a 2022 Indian Tamil-language epic historical action drama film directed by Mani Ratnam, who co-wrote it with Elango Kumaravel and B. Jeyamohan. Produced by Ratnam and Subaskaran Allirajah under Madras Talkies and Lyca Productions, it is the first of two cinematic parts based on Kalki Krishnamurthy's 1955 novel, Ponniyin Selvan. The film stars an ensemble cast including Vikram, Aishwarya Rai Bachchan, Jayam Ravi, Karthi, Trisha, Jayaram, Aishwarya Lekshmi, Sobhita Dhulipala, Prabhu, R. Sarathkumar, Vikram Prabhu, Prakash Raj, Rahman, R. Parthiban and Lal.[5] The music was composed by A. R. Rahman, with cinematography by Ravi Varman, editing by A. Sreekar Prasad, and production design by Thota Tharani. Ponniyin Selvan: I dr"
+    },
+    {
+      "id": 13,
+      "name": "sita ram",
+      "imgsrc": "images/sitaram.jpg",
+      "laguage": "telugu",
+      "description": "Sita Ramam is a 2022 Indian Telugu-language period romance film written and directed by Hanu Raghavapudi. Produced by Vyjayanthi Movies and Swapna Cinema, the film stars Mrunal Thakur (in her Telugu debut) and Dulquer Salmaan as the titular protagonists with Rashmika Mandanna and Sumanth in the supporting roles. Set in 1964, Lieutenant Ram, an orphaned army officer serving at the Kashmir border, gets anonymous love letters from Sita Mahalakshmi, after which Ram is on a mission to find Sita and propose his love."
+    },
+    {
+      "id": 14,
+      "name": "bhahubali 2",
+      "imgsrc": "images/bhb2.png",
+      "laguage": "telugu",
+      "description": "Baahubali 2: The Conclusion is a 2017 Indian epic action film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by Shobu Yarlagadda and Prasad Devineni under the banner Arka Media Works. It was shot in Telugu and Tamil simultaneously. The film features an ensemble cast including Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah, Ramya Krishna, Sathyaraj, Nassar, and Subbaraju. The second cinematic part in the Baahubali franchise, it is the follow-up to Baahubali: The Beginning, serving as both a sequel and a prequel.[6] The film is set in medieval India and follows the sibling rivalry between Amarendra Baahubali and Bhallaladeva; the latter conspires against the former and has him killed by Kattappa. Years later, Amarendra's son returns to avenge his death."
+    },
+    {
+      "id": 15,
+      "name": "Charlie",
+      "imgsrc": "images/charlie.jpg",
+      "laguage": "malyalam",
+      "description": "Charlie is a 2015 Indian Malayalam-language adventure drama film directed by Martin Prakkat and written by Prakkat and Unni R.[3] Produced by Prakkat, Joju George and Shebin Becker, the film stars Dulquer Salmaan and Parvathy.[4] The music is composed by Gopi Sundar, while Jomon T. John handles the cinematography. The film released on 24 December. It won 8 awards at the 46th Kerala State Film Awards, including Best Actor, Best Actress, Best Director and Best Cinematography. It was remade into Marathi and Tamil as Deva and Maara, respectively.[5][6]"
+    },
+    {
+      "id": 16,
+      "name": "hridhayam",
+      "imgsrc": "images/hridayam.jpg",
+      "laguage": "malyalam",
+      "description": "Hridayam (transl. Heart) is a 2022 Indian Malayalam-language coming-of-age romantic drama film written and directed by Vineeth Sreenivasan. It was produced by Visakh Subramaniam through Merryland Cinemas and co-produced by Noble Babu Thomas through Big Bang Entertainments. The film stars Pranav Mohanlal, Kalyani Priyadarshan and Darshana Rajendran. The film's songs and background score was composed by Hesham Abdul Wahab.[3][4]"
+    },
+    {
+      "id": 17,
+      "name": "Bheesama",
+      "imgsrc": "images/Bheeshma.jpg",
+      "laguage": "malyalam",
+      "description": "Bheeshma Parvam (transl. The Chapter of Bheeshma) is a 2022 Indian Malayalam-language action thriller film produced and directed by Amal Neerad, the film stars Mammootty in lead role alongside an ensemble supporting cast including Soubin Shahir, Sreenath Bhasi, Nadhiya Moidu, Shine Tom Chacko, Farhaan Faasil, Dileesh Pothan, Jinu Joseph, Anasuya Bharadwaj, Harish Uthaman, Lena, Shebin Benson, Anagha, Nedumudi Venu, K. P. A. C. Lalitha and Sudev Nair.[5] The movie is written by Amal Neerad and Devadath Shaji with Ravisankar credited as an additional screenwriter.[6] Manu Jose aka RJ Murukan has penned the additional dialogues.[7]"
+    },
+    {
+      "id": 18,
+      "name": "KGF",
+      "imgsrc": "images/kgf.jpg",
+      "laguage": "kannada",
+      "description": "K.G.F: Chapter 1 is a 2018 Indian Kannada-language period action film[5] written and directed by Prashanth Neel, and produced by Vijay Kiragandur under the banner of Hombale Films. It is the first of two installments in the series, followed by K.G.F: Chapter 2. The film features Yash as Rocky while debutant Ramachandra Raju features as Garuda. While Anant Nag, Srinidhi Shetty, Vasishta N. Simha, Achyuth Kumar, Archana Jois, Anant Nag and Malavika Avinash appear in supporting roles. Filmed on a budget of ₹800 million (equivalent to ₹910 million or US$11 million in 2020), it was the most expensive Kannada film at the time of its release.[2] The film focuses on Rocky, a high-ranking assassin in Mumbai, who was born in poverty. After being offered the total control of Mumbai by his employer's boss, he disguises himself as a slave-laborer in the Narachi limestone mine (Kolar Gold Fields), aiming to assassinate Garuda, the future heir of Kolar Gold Fields"
+    },
+    {
+      "id": 19,
+      "name": "KGF 2",
+      "imgsrc": "images/kgf2.jpg",
+      "laguage": "kannada",
+      "description": "K.G.F: Chapter 2 is a 2022 Indian Kannada-language period action film written and directed by Prashanth Neel, and produced by Vijay Kiragandur under the banner Hombale Films. The second installment in a two-part series, it serves as a sequel to the 2018 film K.G.F: Chapter 1. The film stars Yash, Sanjay Dutt, Raveena Tandon, Srinidhi Shetty, Prakash Raj, Archana Jois, Achyuth Kumar, Rao Ramesh, Easwari Rao, Malavika Avinash and Vasishta N. Simha. It follows the assassin Rocky who after establishing himself as the kingpin of the Kolar Gold Fields, must retain his supremacy over adversaries and government officials, while also coming to terms with his past."
+    },
+    {
+      "id": 20,
+      "name": "Beast",
+      "imgsrc": "images/beast.jpg",
+      "laguage": "tamil",
+      "description": "Beast is a 2022 Indian Tamil-language action comedy film[5] written and directed by Nelson. The film stars Vijay, Pooja Hegde and Selvaraghavan. It revolves around an ex-RAW agent's crusade to rescue people held hostage in a shopping mall by terrorists. The production rights of Vijay's 65th film as lead actor were acquired by Sun Pictures in early January 2020 when it was set to be written and directed by A. R. Murugadoss. However, the producers ousted Murugadoss from the film in October 2020 after he refused to cut his remuneration. Nelson was later hired, and he wrote a new script for the film. Principal photography began in April 2021 and wrapped in December taking place in Chennai, Delhi and Georgia. The music was composed by Anirudh, cinematography was handled by Manoj Paramahamsa, editing by R. Nirmal, and production design supervised by D. R. K. Kiran."
+    }
+  ]
